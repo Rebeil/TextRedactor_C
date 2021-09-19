@@ -1,1 +1,2 @@
-*.c linguist-language=C
+* linguist-vendored
+*.c linguist-vendored=false
